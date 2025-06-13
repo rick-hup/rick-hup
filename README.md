@@ -5,3 +5,8 @@
     <a href="https://github.com/sponsors/rick-hup">sponsor</a>
   </samp>
 </p>
+
+#### 💖 Sponsor
+
+- [GitHub Sponsor](https://github.com/sponsors/rick-hup)
+- [爱发电](https://afdian.com/a/rick-hup)
